@@ -1,8 +1,11 @@
 ---
 layout: post
-title: The Hits of 2020
+title: Hello Evo!
 date: 2020-12-05
-categories: feature, opinion
+categories: blog
 ---
 
-Here is a blog post about music!
+Hello there, please enjoy this web site.
+
+Here is a second paragraph, wow.
+
