@@ -1,3 +1,13 @@
+$font-stack: Helvetica, sans-serif;
+
+h1 {
+	font: sans-serif;
+}
+
+body {
+	font: $font-stack;
+}
+
 .current {
-  color: green;
+	color: green;
 }
