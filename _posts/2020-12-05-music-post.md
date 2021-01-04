@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Hello Evo!
+title: A new beginning...
 date: 2020-12-05
-categories: blog
+categories: blog music
 ---
 
 Hello there, please enjoy this web site.
-
-Here is a second paragraph, wow.
 
