@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: frontpage
 title: Stevenings - A Website
 ---
