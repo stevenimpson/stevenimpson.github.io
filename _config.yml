@@ -28,7 +28,7 @@ twitter_username: stevenimpson
 github_username:  stevenimpson
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   
