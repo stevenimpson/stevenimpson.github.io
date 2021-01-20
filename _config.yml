@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Stevenings
-# email: notreally@lol.com 
+# email: notreally@lol.com
 description: >- # this means to ignore newlines until "baseurl:"
   A web site on the internet
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,9 +31,12 @@ github_username:  stevenimpson
 theme: minima
 plugins:
   - jekyll-feed
-  
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 collections:
   authors:
+    output: true
 
 
 # Exclude from processing.
@@ -55,18 +58,20 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 defaults:
-  -
-    scope:
-      type: posts
-      path: _posts
+  - scope:
+      path: ""
+      type: "authors"
     values:
-      is_post: true
-      layout: post
-  -
-    scope:
-      type: pages
-      path: _pages
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
     values:
-      is_post: false
-      layout: default
+      layout: "post"
+      author: "steven"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
