@@ -1,8 +1,9 @@
 ---
 title: A new beginning...
 date: 2020-12-05
-categories: blog music
+categories: music, website
 ---
 
-Hello there, please enjoy this web site.
+![Granite Island bridge](/assets/images/graniteisland.jpg)
 
+Hello there, please enjoy this web site.

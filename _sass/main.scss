@@ -2,6 +2,48 @@ body{
 	font-family: sans-serif;
 }
 
-.current {
-	color: green;
+.main ul {
+	list-style-type: none;
+}
+
+.main a {
+	//text-decoration: none;
+	color: black;
+}
+
+.main img {
+  border-radius: 15px;
+	padding: 5px;
+  height: 300px;
+}
+
+.nav {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+/* The side navigation menu */
+.topbar {
+  background-color: DarkOrange;
+	color: white;
+	height: auto;
+}
+
+/* Sidebar links */
+.topbar a {
+  padding: 16px;
+  text-decoration: none;
+	color: white;
+	padding-top: 10px;
+}
+
+.title {
+	font-size: 40px;
+	text-decoration: none;
+	color: white;
+	padding-top: 10px;
+	}
+
+.main{
+	padding-left: 5%;
 }

@@ -1,8 +1,8 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Staff
-  link: /staff.html
+- name: Twitter
+  link: http://www.twitter.com/StevenImpson
+- name: Github
+  link: http://www.github.com/StevenImpson
+- name: Mobile Arcade Club podcast
+  link: https://podcasts.apple.com/au/podcast/mobile-arcade-club-an-apple-arcade-show/id1481744430
