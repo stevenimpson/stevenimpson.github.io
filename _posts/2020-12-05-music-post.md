@@ -1,7 +1,7 @@
 ---
 title: A new beginning...
 date: 2020-12-05
-categories: music, website
+tags: music website
 ---
 
 ![Granite Island bridge](/assets/images/graniteisland.jpg)
