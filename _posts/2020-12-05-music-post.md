@@ -8,4 +8,4 @@ categories: music, website
 
 Hello there, please enjoy this web site.
 <!--more-->
-Here is some more.
+There's not much here yet, but I have some test content!

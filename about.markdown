@@ -2,4 +2,10 @@
 title: About
 ---
 
-This website isn't much yet. So far the result of a few days of terminal tinkering and wrangling ruby into working.
+I'm Steven Impson. A software developer, writer and podcaster in Adelaide, South Australia.
+
+I currently work in debt management system maintenance and improvement during the day, and write and podcast about video games in the rest of the time.
+
+# Current Projects
+## [Mobile Arcade Club podcast](https://podcasts.apple.com/au/podcast/mobile-arcade-club-an-apple-arcade-show/id1481744430)
+I make a podcast with my good friend Chris Button, exploring the wealth of games on offer on the Apple Arcade service.
