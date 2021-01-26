@@ -2,18 +2,20 @@
 <html>
   {% include head.html %}
   <body>
-    
-  	{% include sidebar.html %}
 
+  	{% include topbar.html %}
     <div class="main">
+
       <ul>
   	  {% for post in site.posts %}
   		<li>
   		  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   		  {{ post.excerpt }}
   		</li>
+      <hr>
   	  {% endfor %}
     	</ul>
+
         {{ content }}
     </div>
 

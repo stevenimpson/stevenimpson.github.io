@@ -7,3 +7,5 @@ categories: music, website
 ![Granite Island bridge](/assets/images/graniteisland.jpg)
 
 Hello there, please enjoy this web site.
+<!--more-->
+Here is some more.

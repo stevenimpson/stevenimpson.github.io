@@ -71,6 +71,7 @@ defaults:
     values:
       layout: "post"
       author: "steven"
+      excerpt_separator: <!--more-->
   - scope:
       path: ""
     values:

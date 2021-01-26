@@ -1,8 +1,8 @@
-- name: Home
-  link: /
 - name: Twitter
   link: http://www.twitter.com/StevenImpson
 - name: Github
   link: http://www.github.com/StevenImpson
-- name: Mobile Arcade Club podcast
+- name: Podcast
   link: https://podcasts.apple.com/au/podcast/mobile-arcade-club-an-apple-arcade-show/id1481744430
+- name: About
+  link: /about.html

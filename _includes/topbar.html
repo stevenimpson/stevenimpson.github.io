@@ -1,8 +1,10 @@
 <div class="topbar">
-  <a class="title" href="/">StevenImpson.com</a>
+  <a class="title" href="/">Stevenings</a>
+  <p class="authorLine">by Steven Impson</p>
   <nav class="nav">
     {% for item in site.data.navigation %}
       <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %} {% if item.link == "/" %}class="title"{% endif %}>{{ item.name }}</a>
     {% endfor %}
+    <hr>
   </nav>
 </div>
