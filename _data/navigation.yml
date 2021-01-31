@@ -8,3 +8,5 @@
   link: https://podcasts.apple.com/au/podcast/mobile-arcade-club-an-apple-arcade-show/id1481744430
 - name: About
   link: /about.html
+- name: RSS
+  link: /feed.xml
