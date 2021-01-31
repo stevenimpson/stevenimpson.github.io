@@ -10,8 +10,9 @@
   	  {% for post in site.posts %}
   		<li>
   		  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p>{{ post.date | date: "%-d %B %Y" }}</p>
-  		  {{ post.content }}
+        <h3>{{ post.date | date: "%-d %B %Y" }}</h3>
+  		  {{ post.excerpt }}
+        <a href="{{ post.url }}">Read more...</a>
   		</li>
       <hr>
   	  {% endfor %}
@@ -19,5 +20,5 @@
 
         {{ content }}
     </div>
-
+    {% include footer.html %}
 </html>
