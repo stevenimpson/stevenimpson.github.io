@@ -23,7 +23,7 @@ title: Stevenings
 description: A web site on the internet
 author: steven
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.stevenimpson.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stevenimpson
 github_username:  stevenimpson
 
