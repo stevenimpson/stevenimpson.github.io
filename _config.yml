@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-auto-image
 
 collections:
   authors:
