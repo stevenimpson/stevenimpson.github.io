@@ -1,4 +1,5 @@
 $post-text-size: 18px;
+$post-mobile-text-size: 21px;
 
 html {
 	font-family: Mulish, sans-serif;
@@ -129,6 +130,7 @@ hr {
 	.main {
 		margin-left: 5%;
 		margin-right: 5%;
+		font-size: $post-mobile-text-size;
 	}
 
 	.title {
