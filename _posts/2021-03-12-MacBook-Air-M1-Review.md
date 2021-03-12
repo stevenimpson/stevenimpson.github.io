@@ -2,14 +2,15 @@
 title: 2020 MacBook Air (with Apple Silicon) review
 date: 2021-03-12
 image: /assets/images/M1Air/mbafront.jpg
-tags: tech, laptop, mac, ARM, M1,
+tags: tech, laptop, mac, ARM, M1
 ---
 
 ![MacBook Air in some grass](/assets/images/M1Air/mbafront.jpg)
 
-**I don't think I've had a computer before that was this immediately impressive.**
-
+I don't think I've had a computer before that was this immediately impressive.
+<!--more-->
 To give some context, my computing life has run the gamut from [British 8-bit home computers](http://www.computinghistory.org.uk/det/2666/Amstrad-CPC-6128/) to ex-school office boxes, high-end gaming PCs and most recently to Mac laptops. I've spent weeks of my life trying to quiet down powerful PC towers, and years dealing with what I assumed was unavoidable heat and fan noise when doing any processing intensive work on a MacBook Pro. Somehow by moving away from Intel, Apple have made this laptop both the most powerful computer I've ever owned *and* made it completely silent at the same time.
+
 
 # This thing is powerful
 
