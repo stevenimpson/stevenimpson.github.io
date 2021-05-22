@@ -1,5 +1,5 @@
 ---
-title: QCMA lets a Vita play nice with a modern computer
+title: Qcma lets a Vita play nice with a modern computer
 date: 2021-05-22
 image: /assets/images/QCMA/qcma.jpg
 tags: tech, playstation, vita, mac, windows
