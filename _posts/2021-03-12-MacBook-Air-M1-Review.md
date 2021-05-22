@@ -3,6 +3,7 @@ title: 2020 MacBook Air (with Apple Silicon) review
 date: 2021-03-12
 image: /assets/images/M1Air/mbafront.jpg
 tags: tech, laptop, mac, ARM, M1
+categories: review
 ---
 
 ![MacBook Air in some grass](/assets/images/M1Air/mbafront.jpg)

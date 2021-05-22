@@ -20,7 +20,7 @@
 
 title: Stevenings
 # email: notreally@lol.com
-description: A web site on the internet
+description: A website where Steven Impson writes about things that interest him
 author: steven
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.stevenimpson.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -39,6 +39,7 @@ collections:
   authors:
     output: true
 
+permalink: pretty
 
 # Exclude from processing.
 # The following items will not be processed, by default.
