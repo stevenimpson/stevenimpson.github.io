@@ -25,4 +25,4 @@ You can backup your games and saves (everything from PS Vita to PSOne) to your c
 
 There's a little more to it if you dig into settings (like setting a default firmware version if you're running Henkaku for example), but all this backing up stuff is just gravy for me. 
 
-I'm mostly glad I found a way to get screenshots off of my Vita.
+Most of all, I'm glad I found a way to get screenshots off of my Vita.
