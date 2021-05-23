@@ -1,4 +1,4 @@
 ---
 layout: frontpage
-title: Stevenings - A Website
+title: Stevenings
 ---
