@@ -1,12 +1,12 @@
 ---
 title: Qcma lets a Vita play nice with a modern computer
 date: 2021-05-22
-image: /assets/images/QCMA/qcma.jpg
+image: /assets/images/QCMA/Vita.jpg
 tags: tech, playstation, vita, mac, windows
 description: QCMA is a way to use the Vita with modern computers
 ---
 
-![QCMA icon on an orange gradient background](/assets/images/QCMA/qcma.jpg)
+![QCMA icon on an orange gradient background](/assets/images/QCMA/Vita.jpg)
 
 I was faced with a problem recently. I have a pile of screenshots on my Vita that I'd love to share online, but the Vita's sharing apps have mostly found their way to the graveyard. 
 
