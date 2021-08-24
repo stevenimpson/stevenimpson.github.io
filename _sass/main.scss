@@ -4,6 +4,7 @@ $post-mobile-text-size: 24px;
 html {
 	font-family: Mulish, sans-serif;
 }
+
 a {
 	color: DarkOrange;
 }
@@ -14,7 +15,6 @@ h1 {
 
 .main ul {
 	list-style-type: none;
-	padding-left: 0%;
 }
 
 .post {
@@ -98,7 +98,7 @@ blockquote {
 
 .title {
 	font-size: 70px;
-	font-weight: bolder;
+	font-weight: 900;
 	text-decoration: none;
 	text-align: center;
 	padding-top: 10px;
@@ -108,6 +108,7 @@ blockquote {
 	text-align: left;
 	margin-left: 20%;
 	margin-right: 20%;
+	font-weight: 400;
 }
 
 .footer {
@@ -126,16 +127,28 @@ hr {
    background-color:lightgray;
 }
 
-@media only screen and (max-width: 1000px) {
+@media all and (max-width: 578px) {
+	
 	.main {
-		margin-left: 2.5%;
-		margin-right: 2.5%;
+        margin-left:5%;
+        margin-right:5%;
 		font-size: $post-mobile-text-size;
 	}
 
-	.title{
-		font-size: 15vw;
+	.title {
+		margin-left:5%;
+        margin-right:5%;
+		font-size: 14vw;
 	}
+
+	p {
+		font-size: $post-mobile-text-size;
+	}
+	
+	.readmore a {
+		font-size: $post-mobile-text-size;
+	}
+
 	h1 {
 		font-size: 30px;
 	}
