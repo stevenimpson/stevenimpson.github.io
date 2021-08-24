@@ -1,5 +1,5 @@
 $post-text-size: 18px;
-$post-mobile-text-size: 21px;
+$post-mobile-text-size: 24px;
 
 html {
 	font-family: Mulish, sans-serif;
@@ -126,14 +126,21 @@ hr {
    background-color:lightgray;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 600px) {
 	.main {
-		margin-left: 5%;
-		margin-right: 5%;
+		margin-left: 2.5%;
+		margin-right: 2.5%;
 		font-size: $post-mobile-text-size;
 	}
 
-	.title {
-	//font-size: 50px;
+	.title{
+		font-size: 15vw;
+	}
+	h1 {
+		font-size: 30px;
+	}
+
+	h2 {
+		font-size: 18px;
 	}
 } 
