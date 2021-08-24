@@ -68,7 +68,7 @@ blockquote {
 	text-align: center;
 }
 
-.topbar a {
+.title a {
 	color: black;
 }
 
@@ -109,6 +109,7 @@ blockquote {
 	text-decoration: none;
 	text-align: center;
 	padding-top: 10px;
+	color: black
 	}
 
 .main {
@@ -133,6 +134,32 @@ hr {
    margin-bottom:10px;
    background-color:lightgray;
 }
+
+@media (prefers-color-scheme: dark) {
+
+	body {
+        background-color: #252525;
+        color: rgba(255,255,255,0.85);
+    }
+
+	.title {
+		color: rgba(255,255,255,0.85);
+	}
+
+	.nav a{
+		color: darkorange;
+	}
+
+
+	blockquote {
+		background:dimgrey;
+		border-left:10px solid #ccc;
+		margin:1.5em 10px;
+		padding:.5em 10px;
+		quotes:"\201C""\201D""\2018""\2019";
+	  }
+}
+
 
 @media all and (max-width: 578px) {
 	
