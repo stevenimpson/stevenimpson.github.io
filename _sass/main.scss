@@ -94,7 +94,8 @@ blockquote {
 }
 
 .nav a {
-  	margin-right: 10px;
+  	margin-right: 5px;
+	margin-left: 5px;
   	text-decoration: none;
 	color: DarkOrange;
 	text-transform: uppercase;
@@ -148,7 +149,7 @@ hr {
 	ul {
 		padding-left: 0px;
 	}
-	
+
 	p {
 		font-size: $post-mobile-text-size;
 	}
