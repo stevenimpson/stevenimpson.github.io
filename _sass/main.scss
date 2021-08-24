@@ -59,7 +59,7 @@ blockquote {
 }
 
 .nav {
-	padding-top: 10px;
+	padding-top: 5px;
 	padding-bottom: 10px;
 }
 
@@ -73,7 +73,7 @@ blockquote {
 }
 
 .topbar hr{
-	width: 60%;
+	width: 70%;
 	height: 6px;
 	border: 0 none;
 	margin-right: auto;
@@ -86,6 +86,8 @@ blockquote {
 .authorLine {
 	font-size: 20px;
 	font-weight: 300;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 .nav {
@@ -161,5 +163,9 @@ hr {
 
 	h2 {
 		font-size: 18px;
+	}
+
+	.topbar hr{
+		width: 100%;
 	}
 } 
