@@ -134,6 +134,9 @@ hr {
    margin-bottom:10px;
    background-color:lightgray;
 }
+.post ul {
+	padding-left: 30px;
+}
 
 @media (prefers-color-scheme: dark) {
 
@@ -163,6 +166,8 @@ hr {
 
 @media all and (max-width: 578px) {
 	
+	
+
 	.main {
         margin-left:5%;
         margin-right:5%;
@@ -176,7 +181,7 @@ hr {
 	}
 
 	ul {
-		padding: 20px, 20px;
+		padding: 0px;
 	}
 
 	p {
