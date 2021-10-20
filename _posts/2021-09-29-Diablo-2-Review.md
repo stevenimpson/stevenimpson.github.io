@@ -1,5 +1,5 @@
 ---
-title: Diablo 2 Review
+title: Diablo 2 Resurrected Review
 date: 2021-09-29
 image: /assets/images/D2Review/d2header.jpg
 tags: video games, review, appearances
