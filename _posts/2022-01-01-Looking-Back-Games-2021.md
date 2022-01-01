@@ -2,6 +2,8 @@
 title: Looking back over my games of 2021
 date: 2022-01-01
 tags: games, highlights, goty
+image: /assets/images/2021goty/dread.jpg
+description: Some highlights from games I played in 2021
 ---
 ![Samus pointing gun at screen](/assets/images/2021goty/dread.jpg)
 
