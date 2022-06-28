@@ -3,6 +3,7 @@ title: Diablo 2 Resurrected Review
 date: 2021-09-29
 tags: video games, review, appearances
 description: I reviewed Tales of Arise for Press Start
+category: linkout
 ---
 
 I reviewed Diablo 2: Resurrected for Press Start Australia, you should go and read it there!

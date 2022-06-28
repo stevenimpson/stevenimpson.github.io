@@ -3,6 +3,7 @@ title: Galaxy S22 reviews
 date: 2022-04-08
 tags: phones, reviews, 
 image: /assets/images/s22reviews/s22s.jpg
+category: linkout
 ---
 ![Two Galaxy S22 series phones on a desk mat](/assets/images/s22reviews/s22s.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: My Writing Toolkit feat. Obsidian
-date: 2022-06-26
+date: 2022-06-28
 tags: writing, obsidian, macos, software
 image: /assets/images/writingtoolkit/obsidian.png
 ---
