@@ -20,6 +20,11 @@
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
         <link rel="manifest" href="/site.webmanifest">
+
+        <!-- If in prod, have analytics enabled -->
+        {% if jekyll.environment == 'production' %}
+          {% include analytics.html %}
+        {% endif %}
         {% feed_meta %}
         {% seo %}
 
