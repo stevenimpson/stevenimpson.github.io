@@ -134,6 +134,7 @@ blockquote {
 	font-size: 12px;
 	font-weight: light;
 	text-align: center;
+	padding-top: 10px;
 }
 
 hr {
@@ -153,7 +154,7 @@ hr {
 #floatleft {
 	float: 	left; 
 	margin: 0px 15px 15px 0px;
-	width: 15%;
+	width: 180px;
 }
 
 @media (prefers-color-scheme: dark) {
