@@ -1,11 +1,3 @@
-- name: Twitter
-  link: http://www.twitter.com/StevenImpson
-- name: Last.fm
-  link: http://www.last.fm/user/NinjaCatfish
-- name: Github
-  link: http://www.github.com/StevenImpson
-- name: Podcast
-  link: https://podcasts.apple.com/au/podcast/mobile-arcade-club-an-apple-arcade-show/id1481744430
 - name: About
   link: /about.html
 - name: RSS
