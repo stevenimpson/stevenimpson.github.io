@@ -1,3 +1,5 @@
+- name: Blog
+  link: /index.html
 - name: About
   link: /about.html
 - name: RSS
