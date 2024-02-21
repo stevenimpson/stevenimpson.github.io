@@ -2,7 +2,7 @@
 title: The 16-bit Audiophile Project - A Cool Thing I Found
 description: ""
 date: 2024-02-21T06:34:31.255Z
-preview: /images/coolthings/S3Kplaying.jpg
+preview: /assets/images/coolthings/S3Kplaying.jpg
 tags:
     - cool things
     - music
