@@ -7,6 +7,7 @@ tags:
     - cool thing
 categories: []
 slug: eq-audio-cool
+image: /assets/images/coolthings/a2splants.jpg
 ---
 
 ![My little AudioEngine A2s surrounded by plants and stationery](/assets/images/coolthings/a2splants.jpg)
