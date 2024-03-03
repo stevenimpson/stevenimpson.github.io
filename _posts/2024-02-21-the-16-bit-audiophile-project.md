@@ -1,5 +1,5 @@
 ---
-title: The 16-bit Audiophile Project - A Cool Thing I Found
+title: The 16-bit Audiophile Project
 description: ""
 date: 2024-02-21T06:34:31.255Z
 preview: /assets/images/coolthings/S3Kplaying.jpg
@@ -8,7 +8,7 @@ tags:
     - music
     - retro games
 categories: []
-slug: 16-bit-audiophile-project-cool
+slug: 16-bit-audiophile-project
 ---
 
 ![Sonic 3 & Knuckles playing in Plexamp](/assets/images/coolthings/S3Kplaying.jpg)

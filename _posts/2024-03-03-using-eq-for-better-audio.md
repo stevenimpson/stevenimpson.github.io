@@ -1,12 +1,12 @@
 ---
-title: Using EQ For Better Audio - A Cool Thing I Found
+title: Using EQ For Better Audio
 description: ""
 date: 2024-03-03
 preview: ""
 tags:
     - cool thing
 categories: []
-slug: eq-audio-cool
+slug: eq-audio
 image: /assets/images/coolthings/a2splants.jpg
 ---
 
