@@ -49,6 +49,8 @@
           <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}"> 
         {% endif %} 
         <!-- end twitter card -->
+        <!-- fediverse -->
+        <meta name="fediverse:creator" content="@stevenimpson@aus.social" />
         <!-- description-->
         <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
         <meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
