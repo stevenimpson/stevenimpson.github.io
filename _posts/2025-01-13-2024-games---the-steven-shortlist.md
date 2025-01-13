@@ -24,7 +24,7 @@ This one really came out of nowhere for me. I have a tumultuous relationship wit
 
 ![](/assets/images/2024games/arzette.jpg)
 
-Arzette is what you get when a team of people sees the promise hidden inside the Zelda CDi games and makes good on it. Everything from the musical style, intentionally hammy voice acting to the beautifully lo-fi animation style lovingly resembles the games to which it pays homage. If you’re a weirdo like me who spent far too much of his time watching deranged edits of CDi cut scenes in the past you owe it to yourself to give this a try. It’s even a fantastic game under the delightful stylistic tribute, to boot!
+Arzette is what you get when a team of people sees the promise hidden inside the Zelda CDi games and makes good on it. Everything from the music style, intentionally hammy voice acting to the beautifully lo-fi animation style lovingly resembles the games to which it pays homage. If you’re a weirdo like me who spent far too much of his time watching deranged edits of CDi cut scenes in the past you owe it to yourself to give this a try. It’s even a fantastic game under the delightful stylistic tribute, to boot!
 
 ## Emio: The Smiling Man
 
@@ -36,7 +36,7 @@ I had no idea what I was in for with Emio. Going purely on the recommendation of
 
 ![](/assets/images/2024games/100xresist.jpg)
 
-Humanity is all but gone, decimated by an illness that literally makes you cry yourself to death. All that remain are a society of women living their life according to a strict dogma. 1000xRESIST really struck me. It’s a game about the things we carry with us and the way we pass things on to the people who are important to us. It’s also got some shockingly good looking scenes, composed with a cinematic eye that have lingered in my mind ever since. It’s more visual novel than action game, but every chapter left me with something to marinate on - and that’s my kind of shit.
+Humanity is all but gone, decimated by an illness that literally makes you cry yourself to death. All that remain are a society of women living their life according to a strict dogma. 1000xRESIST really struck me. It’s a game about the things we carry with us and the way we pass things on to the people who are important to us. It’s also got some shockingly good looking scenes, composed with a cinematic eye, that have lingered in my mind ever since. It’s more visual novel than action game, but every chapter left me with something to marinate on - and that’s my kind of shit.
 
 ## Crow Country
 
@@ -52,7 +52,7 @@ I was initially a bit apprehensive since it looked like a classic fixed camera g
 
 I vibed with this game from the word go. A down on his luck, recently divorced duck with a crippling bread addiction called back into the life of detecting that sent him downhill in the first place. It’s a classic detective noir setup - but the main character is a duck.
 
-The mystery is fun to unpack over the course of an afternoon, and while I had some niggles with the specific method it makes you deduce the situation, I found Duck Detective a delightful way to while away an afternoon.
+The mystery is fun to unpack over the course of an afternoon, and while I had some niggles with the specific method you use to deduce the situation, I found Duck Detective a delightful way to while away an afternoon.
 
 ## Ufouria: The Saga 2
 
