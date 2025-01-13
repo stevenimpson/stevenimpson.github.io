@@ -66,4 +66,10 @@ I rented the original Ufouria on NES as a kid. I never got very far, but it was 
 
 For years I’ve known I’d enjoy Dragon Quest. Watching [Tim Rogers’ DQXI review](https://www.youtube.com/watch?v=4iTbUGItU0s), and knowing several friends who adore the series made me pretty confident it’s something I’d love - but I’d just never gotten around to playing one - until I got this one in as a review. The music, the character and enemy art, the general vibe, the comfortable but challenging JRPG combat system - DQ3 rules and I can’t wait for 1 & 2 to come along.
 
+## Astro Bot
+
+![](/assets/images/2024games/astrobot.jpg)
+
+Team Asobi have nailed the platforming *feel* in a way that few aside from Nintendo ever have. From all the little in-level interactions, mechanical gimmicks and delightful little historical nods - Astro put a smile on my face from start to finish.
+
 So many varied and interesting games appeared this year, and so many I won’t even get to play for years to come I’m sure. Much of what I did play was immensely rewarding, especially those outside the AAA space. So many weird little gems out there to enjoy.
