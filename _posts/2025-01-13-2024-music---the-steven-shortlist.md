@@ -1,7 +1,7 @@
 ---
 title: 2024 Music - The Steven Shortlist
 description: ""
-date: 2025-01-13T20:30:00.000Z
+date: 2025-01-13T19:30:00.000Z
 preview: ""
 tags:
     - the steven shortlist
