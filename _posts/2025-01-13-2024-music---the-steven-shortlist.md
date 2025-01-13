@@ -4,7 +4,9 @@ description: ""
 date: 2025-01-13T10:17:18.123Z
 preview: ""
 tags: []
-categories: []
+categories:
+    - the steven shortlist
+slug: 2024-music-steven-shortlist
 ---
 
 I usually try to curate a little list of albums I loved at the end of a year. It’s a nice way to think back on what I really enjoyed listening to, what soundtracked my life for that particular span of time hurtling around the sun. I forgot to last year, but I’m doing it again now!
