@@ -60,7 +60,7 @@ The mystery is fun to unpack over the course of an afternoon, and while I had so
 
 I rented the original Ufouria on NES as a kid. I never got very far, but it was that weird game for me that stuck in my memory but I couldn’t remember the name until recently. Regardless, Ufouria 2 was a delight. It’s visual style is wonderful in how everything has a tangible, material look. It’s a fairly light and breezy exploration centric platformer that I loved breezing through.
 
-# Dragon Quest 3: HD-2D Remake
+## Dragon Quest 3: HD-2D Remake
 
 ![](/assets/images/2024games/dq3hd2d.jpg)
 
