@@ -1,11 +1,11 @@
 ---
 title: 2024 Music - The Steven Shortlist
 description: ""
-date: 2025-01-13T10:17:18.123Z
+date: 2025-01-13T20:30:00.000Z
 preview: ""
-tags: []
-categories:
+tags:
     - the steven shortlist
+categories: []
 slug: 2024-music-steven-shortlist
 ---
 
@@ -16,7 +16,7 @@ This won’t be everything I enjoyed in the year, not by a long shot! I’d be h
 <!--more-->
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2lIZef4lzdvZkiiCzvPKj7?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-I simply could not have a list of music from 2024 without including brat. The pendulum of Charli swings erratically from coke in the club to vulnerable concerns about missing a chance at parenthood right back to the club, and I think it works precisely thanks to those dare I say brattish swings. Brat was life for most of my June and July, and it was a good life. 
+I simply could not have a list of music from 2024 without including brat. The pendulum of Charli swings erratically from coke in the club to vulnerable concerns about missing a chance at parenthood right back to the club, and I think it works precisely thanks to those, dare I say, brattish swings. Brat was life for most of my June and July, and it was a good life. 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3XZSdDA1pUrZaDpK1QSjgq?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 I loved Charly Bliss’s last album [Young Enough](https://open.spotify.com/album/664LoJLvkRrnZSbXnTcGaK?si=Ix0R9vgjReK3UYa_3tbJPg), but this one is where I really fell in love with the group’s sound. I couldn’t get enough of their powerpoppy sound this year. Wall to wall singalongs in the car kind of stuff.
