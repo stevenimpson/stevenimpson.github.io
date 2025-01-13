@@ -72,4 +72,10 @@ For years I’ve known I’d enjoy Dragon Quest. Watching [Tim Rogers’ DQXI re
 
 Team Asobi have nailed the platforming *feel* in a way that few aside from Nintendo ever have. From all the little in-level interactions, mechanical gimmicks and delightful little historical nods - Astro put a smile on my face from start to finish.
 
+## Mouthwashing
+
+![](/assets/images/2024games/mouthwashing.jpg)
+
+Like 1000xResist, Mouthwashing is about so much. It's about the effect of capitalism on the people who need to work within it to survive. It's about how people deal with their absolute lowest moments. It's about feeding a horrendously disfigured not-quite-corpse painkillers in increasingly uncomfortable scenes. It's a game that sets out to make you feel unease, and I love it for that.
+
 So many varied and interesting games appeared this year, and so many I won’t even get to play for years to come I’m sure. Much of what I did play was immensely rewarding, especially those outside the AAA space. So many weird little gems out there to enjoy.
