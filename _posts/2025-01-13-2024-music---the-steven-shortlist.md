@@ -33,8 +33,10 @@ A complete 180 from hard hitting hip-hop and rock, next up is Vitesse X’s late
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0UQUfbqiTBfHxtuzW55ept?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 It couldn’t be a Steven music list without a ska release, it just wouldn’t be right. Half Past Two have been simmering in the background of my ska enjoyment for a few years now but really came to the fore with Talk Is Killing Me. The title track is fantastic, but Dominos is the standout for me.
 
-There are heaps more releases I loved this year, but I can’t write about them all. I did make a playlist of my faves of the year though, and you can listen to it right here!
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2iS4pBIiQf4sCTJLZ5n8dy?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+Smile took a while to grow on me. I've enjoyed almost everything that porter Robinson has put out in the past and under various projects but for whatever reason this one didn't land immediately. I came back to it a few months after and it clicked. It's poppier, it's personal, and has some of the coolest drops I've heard all year. Cheerleader has been on repeat ever since.
+
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0PJy01gyvPzbUXM5FZuAOr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Thanks for reading! It’s been a great 2024 for music, here’s to a great 2025 of tunes.
+There are heaps more releases I loved this year, but I can’t write about them all. I did make a playlist of my faves of the year though, and you can listen to it right here!
