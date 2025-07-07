@@ -20,7 +20,7 @@
 
 title: Stevenings
 # email: notreally@lol.com
-description: A website where Steven Impson writes about things that interest him
+description: Where my posts live
 author: steven
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.stevenimpson.com" # the base hostname & protocol for your site, e.g. http://example.com

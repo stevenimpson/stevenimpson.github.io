@@ -1,6 +1,5 @@
 ---
 title: Home is a neat little choose your own mystery
-description: ""
 date: 2025-07-07T04:11:05.071Z
 preview: /assets/images/homeunique/home1.jpg
 tags: [indie games, horror, psvita, mystery]
