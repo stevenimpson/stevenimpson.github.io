@@ -7,6 +7,8 @@ tags: [indie games, horror, psvita, mystery]
 categories: []
 ---
 
+![](/assets/images/homeunique/home1.jpg)
+
 I played _Home: A Unique Horror Adventure_ after being somehow reminded of it recently.
 
 A neat little horror mystery that unfolds kind of how you decide it does. You can uncover more or less of the story depending on how thoroughly you explore areas. Ultimately the game asks you to interpret what you’ve found through some yes/no questions which decide how the story actually unfolded.
