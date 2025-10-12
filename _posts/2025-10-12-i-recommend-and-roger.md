@@ -1,6 +1,6 @@
 ---
 title: I recommend 'and Roger'
-description: ""
+description: "If you have an hour, a few dollars, and some emotional fortitude to spare - I highly recommend playing 'and Roger'."
 date: 2025-10-12T08:21:44.178Z
 preview: /assets/images/androger/androger.jpg
 tags: []
