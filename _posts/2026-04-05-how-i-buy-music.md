@@ -9,6 +9,7 @@ slug: buy-music
 ---
 
 Despite moving basically full time to streaming music a long while back, I have always loved building and curating my own little music library. 
+<!--more-->
 
 I had a bit of a disaster while switching computers at one point where I lost everything and had to start from scratch, but since then I’ve managed to build up a pretty massive collection of music I want to have on hand if someday streamers all die, or the internet falls over, or some other extremely unlikely scenario. Mostly I just like buying and having the music that is important to me. Here’s how I do it.
 
