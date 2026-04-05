@@ -18,9 +18,11 @@ group :jekyll_plugins do
   gem 'jekyll-auto-image'
 end
 
+gem 'csv'
+gem 'bigdecimal'
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
-platforms :mingw, :x64_mingw, :mswin, :jruby do
+platforms :windows, :jruby do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end
