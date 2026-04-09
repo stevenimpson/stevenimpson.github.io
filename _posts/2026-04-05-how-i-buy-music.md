@@ -30,4 +30,6 @@ Not many can manage this, but some artists actually sell their own music from th
 ## Qobuz
 If an album I want isn’t on Bandcamp, usually because the album is part of a record deal with one of the bigger record companies, [Qobuz](https://www.qobuz.com/au-en/shop) is my next port of call. Best known for their high quality streaming service, they also offer a download store with a good range of bigger artists at reasonable prices and with CD-quality downloads (or hi-res files if for whatever reason you want to use up more space and pay extra). 
 
+---
+
 These options cover basically every way I buy digital music. There’s a few other occasional methods like download codes in record sleeves but this covers pretty much every way I directly buy music. 
