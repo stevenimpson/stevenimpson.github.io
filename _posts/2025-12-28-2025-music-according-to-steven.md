@@ -3,7 +3,8 @@ title: 2025 Music According to Steven
 description: These are the albums that hit for me this year
 date: 2025-12-28T01:48:19.241Z
 preview: ""
-tags: []
+tags:
+    - the steven shortlist
 categories: []
 ---
 
