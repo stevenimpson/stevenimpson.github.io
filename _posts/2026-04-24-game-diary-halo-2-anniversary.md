@@ -1,6 +1,6 @@
 ---
 title: "Game Diary: Halo 2 Anniversary"
-description: ""
+description: "A rollercoaster of variably successful ideas"
 date: 2026-04-24T05:28:52.607Z
 preview: ""
 tags:
