@@ -6,6 +6,7 @@ preview: ""
 tags:
     - game diary
 categories: []
+slug: game-diary-mina-hollower
 ---
 
 What a brilliant game.
