@@ -57,5 +57,6 @@
       "title": "_drafts",
       "path": "[[workspace]]/_drafts"
     }
-  ]
+  ],
+  "frontMatter.dashboard.openOnStart": true
 }
